@@ -1,5 +1,5 @@
 # Jobs React Native App 
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+![RN Course](https://i.ibb.co/NK3NwGY/file-cover.jpg)
 
 
 # Expo Router Example
