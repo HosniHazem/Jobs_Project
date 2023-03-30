@@ -1,3 +1,7 @@
+# Jobs React Native App 
+![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
